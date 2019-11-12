@@ -1,3 +1,3 @@
-# OpenSourceIndia
+# Data Hack Summit
 
-Notebook to be used during the hands on workshop.
+Notebook to be used for the hack session.
